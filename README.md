@@ -2,7 +2,6 @@
 - 👀 I’m interested in coding, engineering, chess and poker :)
 - 🌱 I’m currently learning with Code Kentucky!
 - 💞️ I’m looking to collaborate on coding projects
-- 📫 How to reach me: Email - lambert.danielmarks@gmail.com
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: the path of sound underwater is influenced by temperature, pressure and salinity
 
